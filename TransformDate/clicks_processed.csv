@@ -1,0 +1,15 @@
+"campaign_id","date","time","timezone","joined_date","advertiser_id","advertiser_name","campaign_name","budget"
+55112,"05/11/2018","17:50:00","Eastern time",2018-11-05 22:50:00,34523,"Lever Brows","Q4 performance",250000
+55112,"03/11/2018","06:50:00","UTC",2018-11-03 06:50:00,34523,"Lever Brows","Q4 performance",250000
+55112,"03/11/2018","16:35:00","UTC",2018-11-03 16:35:00,34523,"Lever Brows","Q4 performance",250000
+55112,"05/11/2018","16:30:00","UTC",2018-11-05 16:30:00,34523,"Lever Brows","Q4 performance",250000
+55112,"02/11/2018","04:30:00","UTC",2018-11-02 04:30:00,34523,"Lever Brows","Q4 performance",250000
+55112,"05/11/2018","19:25:00","UTC",2018-11-05 19:25:00,34523,"Lever Brows","Q4 performance",250000
+56444,"02/11/2018","02:35:00","Pacific time",2018-11-02 09:35:00,73453,"Ninetendo","Run of network",1000
+56444,"02/11/2018","10:10:00","Pacific time",2018-11-02 17:10:00,73453,"Ninetendo","Run of network",1000
+56444,"04/11/2018","23:00:00","Pacific time",2018-11-05 07:00:00,73453,"Ninetendo","Run of network",1000
+56444,"05/11/2018","15:45:00","Pacific time",2018-11-05 23:45:00,73453,"Ninetendo","Run of network",1000
+99870,"01/11/2018","00:05:00","UTC",2018-11-01 00:05:00,11354,"Coco Cola","Christmas cheer",15000
+99870,"02/11/2018","23:00:00","Eastern time",2018-11-03 03:00:00,11354,"Coco Cola","Christmas cheer",15000
+99870,"05/11/2018","20:30:00","Eastern time",2018-11-06 01:30:00,11354,"Coco Cola","Christmas cheer",15000
+99870,"02/11/2018","09:00:00","Pacific time",2018-11-02 16:00:00,11354,"Coco Cola","Christmas cheer",15000
